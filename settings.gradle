@@ -1,0 +1,2 @@
+rootProject.name='StyleTransfromApplication'
+include ':app', ':sdk'
